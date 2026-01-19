@@ -101,7 +101,7 @@
 
 <body>
 
-<h1>MILFIT CUBICLE OCCUPANCY DASHBOARD</h1>
+<h1>CUBICLE OCCUPANCY DASHBOARD</h1>
 
 <div class="stats">
     <div class="stat-item">
